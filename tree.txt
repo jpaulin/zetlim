@@ -1,0 +1,28 @@
+.
+├── index.js
+├── node_modules
+│   └── geo-distance
+│       ├── example
+│       │   ├── earth.js
+│       │   ├── map.coffee
+│       │   ├── map.html
+│       │   └── map.js
+│       ├── lib
+│       │   ├── geo-distance.coffee
+│       │   └── geo-distance.js
+│       ├── package.json
+│       └── README.md
+├── package.json
+├── README.md
+├── tree.txt
+└── workshop
+
+5 directories, 12 files
+
+Specific folders
+
+workshop	All kinds of data processing done here. For example, to produce
+		the list of cities (with their lat,lon) I used 'workshop'
+		and a bit of Linux cmd line majik.
+
+
